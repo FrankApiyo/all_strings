@@ -1,6 +1,6 @@
 # AllStrings
 
-**TODO: Add description**
+https://www.youtube.com/watch?v=3MPydv8LVgw&list=PL2Rv8vpZJz4w7Sm9STyZvoY0JAKUk_JOB&index=5
 
 ## Installation
 
